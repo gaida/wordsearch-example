@@ -1,6 +1,6 @@
 # A word search example written in golang
 
-This is just a quick example implementation to a word search assignment in golang.
+This is just a quick example implementation to a word search assignment.
 
 Some things to note:
   - There are quite a few nested loops, so efficiency could be improved.
